@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-m08va6.myiban.com.ua/sitemap.xml
